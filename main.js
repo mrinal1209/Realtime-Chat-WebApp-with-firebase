@@ -1,11 +1,11 @@
 
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyCD-ZEysMdjfSbCAHeDuDqJR1QkVvetNuc",
-    authDomain: "kidechat.firebaseapp.com",
-    databaseURL: "https://kidechat.firebaseio.com",
-    storageBucket: "kidechat.appspot.com",
-    messagingSenderId: "958313950279"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
   var database = firebase.database();
